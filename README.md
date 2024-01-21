@@ -1,3 +1,3 @@
 ## Joaki Rivero
 
-`// TODO: as always`
+`// TODO: as usual`
